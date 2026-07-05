@@ -1,0 +1,11 @@
+*.class
+out/
+build/
+target/
+virtual-disk.dat
+.idea/
+.vscode/
+README.md
+build_report.py
+docs/
+*.docx
